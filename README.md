@@ -72,7 +72,7 @@ Welcome to my GitHub! I'm passionate about crafting user-friendly web applicatio
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=karan-singh5&theme=dark&show_icons=true&count_private=true"><br>
+<!-- <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=karan-singh5&theme=dark&show_icons=true&count_private=true"><br> -->
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=karan-singh5&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=karan-singh5&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-singh5&label=Profile%20views&color=0e75b6&style=flat" alt="karan-singh5" /> </p>
@@ -80,3 +80,7 @@ Welcome to my GitHub! I'm passionate about crafting user-friendly web applicatio
 ## *📫 Connect With Me*  
 🔗 [LinkedIn](https://www.linkedin.com/in/karan-govind-singh/)  
 📧 Email: karansinghkgs05@gmail.com  
+
+
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karan-singh5&show_icons=true&locale=en&layout=compact" alt="karan-singh5" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-singh5&" alt="karan-singh5" /></p> -->
