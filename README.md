@@ -7,14 +7,14 @@ Welcome to my GitHub! I'm passionate about crafting user-friendly web applicatio
 
 ## *🔹 Skills & Technologies* 
 
-### 💻 *Languages*
+#### 💻 *Languages*
 <div align="left">
   <img src="https://img.shields.io/badge/Java-%23F89800.svg?logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white" alt="C"/>
 </div>
 
-### 🌐 *Web Development*
+#### 🌐 *Web Development*
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm passionate about crafting user-friendly web applicatio
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
 
-### 🛠 *Software Testing*
+#### 🛠 *Software Testing*
 
 <div align="left">
   <img src="https://img.shields.io/badge/Selenium-%2300A3E0.svg?logo=selenium&logoColor=white" alt="Selenium"/>
@@ -33,14 +33,14 @@ Welcome to my GitHub! I'm passionate about crafting user-friendly web applicatio
   <img src="https://img.shields.io/badge/TestNG-%23E9A000.svg?logo=testng&logoColor=white" alt="TestNG"/>
 </div>
 
-### 📦 *Database Management*  
+#### 📦 *Database Management*  
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
   <img src="https://img.shields.io/badge/phpMyAdmin-%23A8B9CC.svg?logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
   <img src="https://img.shields.io/badge/SQL-%23007B8C.svg?logo=mysql&logoColor=white" alt="SQL"/> 
 </div>
 
-### 📊 *Data Analytics & Visualization*  
+#### 📊 *Data Analytics & Visualization*  
 
 <div align="left">
   <img src="https://img.shields.io/badge/Power_BI-%23036588.svg?logo=powerbi&logoColor=white" alt="Power BI"/>
@@ -50,7 +50,7 @@ Welcome to my GitHub! I'm passionate about crafting user-friendly web applicatio
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white" alt="Python"/>
 </div>
 
-### ⚙️ *Other Tools*  
+#### ⚙️ *Other Tools*  
 
 <div align="left"> 
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white" alt="VS Code"/>
@@ -63,7 +63,7 @@ Welcome to my GitHub! I'm passionate about crafting user-friendly web applicatio
   <img src="https://img.shields.io/badge/OpenCV-%230D1D1B.svg?logo=opencv&logoColor=white" alt="OpenCV"/>  
 </div>
 
-### Soft Skills  
+#### Soft Skills  
   - Problem Solving  
   - Communication  
   - Team Collaboration  
